@@ -15,7 +15,7 @@ const styles = {
 }
 
 const style = {
-    wrapper: `flex flex-col h-[300px] w-[1000px] m-4 border-4 border-white rounded-xl bg-[#0653F6] `,
+    wrapper: `flex flex-col h-[250px] w-[1000px] m-4 border-4 border-white rounded-xl bg-[#0653F6] `,
     header: `flex h-[15%] bg-black rounded-t-xl text-white font-black items-center pl-4 text-xl`,
     questionContainer: `flex flex-col  `,
     titile: `mt-2 font-black text-sm pl-4`,

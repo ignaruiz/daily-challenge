@@ -5,7 +5,7 @@ import Prediction from '../components/Prediction'
 
 const style = {
   wrapper: `h-screen w-screen flex flex-col bg-[#222229]`,
-  questionsContainer: `flex flex-col items-center mt-16 flex-1  `,
+  questionsContainer: `flex flex-col items-center mt-10 flex-1  `,
   
 }
 
